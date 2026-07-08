@@ -1,16 +1,40 @@
-## Hi there 👋
-
-<!--
-**mycybersecurity2026/mycybersecurity2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Gibson Ukarioniso
+## About Me
+I am a cybersecurity student at NIIT Port Harcourt, persionate about offensive defensive Cybersecurity
+I enjoy building practical Cybersecurity Projects that demostrate real world skill in:
+- Penitration Testing
+- Log Analysis
+- Maleware Analysis
+- Digital Forensic
+- OSINT
+- Threat Hunting
+## Projects
+## Project               |         Description                                    |          Repositary
+OSINT Investigattion        Conducted an OSINT investigation on a target system          Coming Soon
+Log Analysis                Analyze IIS and Windows Event Logs to identify attacks       Coming Soon
+## Skills
+### Operating Systems
+- Windows
+- Linux
+### Networking
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
+- Telnet
+### Cybersecurity Tools
+- Nmap
+- Wireshark
+- Burp Swite
+- Metasploite
+- Git
+- GitHub
+## Certification
+- ISC2 Certified in Cybersecurity
+- CompTIA Security+ (In Progress)
+## Education
+- Rivers State Polytechnic
+- NIIT Port Harcourt: Cyber Security Programing
+## Email
+Email: gibsonukari96@gmail.com
