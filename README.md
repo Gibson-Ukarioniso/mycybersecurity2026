@@ -1,5 +1,3 @@
-# Hi there, I'm Gibson Ukarioniso! 👋
-
 <p align="center">
   <img src="banner.png" alt="Gibson Ukarioniso Banner" width="100%">
 </p>
