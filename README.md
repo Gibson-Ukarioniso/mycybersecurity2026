@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity student at **NIIT Port Harcourt**, deeply passionate about both offensive and defensive security principles. I specialize in building practical cybersecurity projects that demonstrate real-world engineering and analytical skills across several security domains:
+I am a Cybersecurity Analyst at **NIIT Port Harcourt**, deeply passionate about both offensive and defensive security principles. I specialize in building practical cybersecurity projects that demonstrate real-world engineering and analytical skills across several security domains:
 
 *   **⚡ Offensive Security:** Penetration Testing & Vulnerability Assessment
 *   **🛡️ Defensive Security:** Log Analysis, Threat Hunting, & Incident Response
