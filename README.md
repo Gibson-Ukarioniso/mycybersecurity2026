@@ -18,8 +18,8 @@ I am a cybersecurity student at **NIIT Port Harcourt**, deeply passionate about 
 
 | 🛠️ Project Domain | 📝 Investigation & Analysis Description | 🔗 Repository Link |
 | :--- | :--- | :--- |
-| **🌐 OSINT Investigation** | Conducted a comprehensive open-source intelligence investigation to map digital footprints and analyze target system vulnerabilities. | ⏳ *Coming Soon* |
-| **🪵 Log Analysis** | Parsing and analyzing IIS web server logs and Windows Event Logs to identify attack strings, automated scans, and malicious activity. | ⏳ *Coming Soon* |
+| **🌐 OSINT Investigation** | Conducted a comprehensive open-source intelligence investigation to map digital footprints and analyze target system vulnerabilities.| ⏳ *Coming Soon*   |
+| **🪵 Log Analysis** | Parsing and analyzing IIS web server logs and Windows Event Logs to identify attack strings, automated scans, and malicious activity. | ⏳ *Coming Soon*   |
 
 ---
 
