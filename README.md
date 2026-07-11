@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="banner.png" alt="Gibson Ukarioniso Banner" width="100%">
+</p>
+
+---
+
+
 Hi, I'm Gibson Ukarioniso
 ## About Me
 I am a cybersecurity student at NIIT Port Harcourt, passionate about offensive defensive Cybersecurity
